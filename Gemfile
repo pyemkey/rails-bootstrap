@@ -12,8 +12,10 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 # rails-bootstrap
+gem 'activerecord-tableless'
 gem 'bootstrap-sass'
 gem 'figaro'
+gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form', '>= 3.0.0.rc'
 group :development do
